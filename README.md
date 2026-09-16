@@ -1,8 +1,10 @@
 2026/09/16 14:25:48
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: saltydachs@yahoo.com, lenicurd@gmail.com
-At: 2026-09-16 14:26:46
-Id: XhipaPWu
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: sarabethlynnette@live.com, rtking36@yahoo.com
+At: 2026-09-16 14:27:25
+Id: L9F0XqVb
